@@ -16,5 +16,4 @@ The input variables are contained in the inputs.py file.<br>
     - dist: Minimun distance between peaks - samples between neighbouring peaks<br>
     - limit_frq: Maximum amount of frequencies to present<br>
 
-The ouptut file is a table saved in a csv file. Each  column contains the main peaks obtained from the Peak picking technique.<br>
- 
+The output file is a table saved in a csv file. Each  column contains the main peaks obtained from the Peak picking technique.<br> 
