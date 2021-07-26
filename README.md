@@ -15,5 +15,6 @@ The input variables are contained in the inputs.py file.<br>
     - freq_r_H: Frequency range High value [Hz]<br>
     - dist: Minimun distance between peaks - samples between neighbouring peaks<br>
     - limit_frq: Maximum amount of frequencies to present<br>
+A jupyter notebook is also included, in alternative to the py files.
 
 The output file is a table saved in a csv file. Each  column contains the main peaks obtained from the Peak picking technique.<br> 
